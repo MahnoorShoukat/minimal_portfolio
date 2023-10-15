@@ -1,0 +1,24 @@
+
+title: <p align="center"> Mahnoor Shoukat </p>
+
+logo: "/images/logopic.png?raw=true"
+
+description:
+  <p align="center"> 
+  <a href="pdf/Resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/mahnoorshoukat/">LinkedIn</a> |
+  <a href="https://github.com/MahnoorShoukat">GitHub</a>
+  <br>
+  <a href="#skills" style="font-size: 18px;>My Skills</a> 
+  </p>
+  
+  <p style="color:black" align="justify">
+  Fresh Software Engineering Graduate looking for Data Analytics, Data Science, and Machine Learning Jobs.
+  <br><br>
+  I am currently doing freelancing and learning data analytics with a focus on computer vision, NLP, and Deep Learning research.
+  <br><br>
+  </p>
+
+theme: jekyll-theme-minimal
+google_analytics: UA-145578661-1 # Google Analytics tracking ID
+

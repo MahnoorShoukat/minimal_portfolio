@@ -79,17 +79,20 @@ preprocessing technique is used to eliminate the noise in this system and enhanc
 
 <h2 id="skills">Skills/Tools:</h2>
 <ul>
-<li>Data Analytics (Data Wrangling, EDA, Feature Engineering)</li>
-<li>AI, ML, DS</li>
+<li>AL, ML, DS, Data Analytics </li>
 <li>Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn) working with Jupyter notebook and Google Colab</li>
+<li>Chatbot Development</li>
+<li>LangChain</li>
+<li>API Integrationn</li>
+<li>TensorFlow, PyTorch</li>
+<li>ML, DL models </li>
+<li>Katalon Studio (Testing)</li>
 <li>Power BI</li>
-<li>C++</li>
+ <li>C++</li>
 <li>My SQL</li>
-<li>DL (TensorFlow, PyTorch)</li>
 <li>MS Office, MS Visio</li>
  </ul>
- 
-<h3>Skills/Tools:</h3>
+
 
 <div style="text-align: justify">Apart from technical skills, I possess strong Analytical, Problem-solving, Critical thinking, presentation skills and team-work abilities.</div>
 <br>
